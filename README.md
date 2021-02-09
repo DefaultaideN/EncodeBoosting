@@ -15,6 +15,6 @@ Plot_decompose.ipynb is the visualizing and PCA part. Results were used in encod
 ## Contact
 If you have any questions about this project, please feel free to contact us:
 ### Email:
-*guohongxiang@buaa.edu.cn 
-*chenzk0429@gmail.com
-*forview1235@gmail.com
+* guohongxiang@buaa.edu.cn 
+* chenzk0429@gmail.com
+* forview1235@gmail.com
