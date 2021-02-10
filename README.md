@@ -1,5 +1,6 @@
 # EncodeBoosting
 Code for the paper: 'A Concatenated Approach Based on Transfer Learning and PCA for Classifying Bees and Wasps'
+![image](https://github.com/DefaultaideN/EncodeBoosting/blob/main/total_structure_v3.png)
 ## Descriptions
 This repo contains codes for our paper: 'A Concatenated Approach Based on Transfer Learning and PCA for Classifying Bees and Wasps'. Following is the details for each file.
 ### Encode_boosting
